@@ -1,0 +1,35 @@
+Scenario 1: Alex wants a reminder system to prevent procrastination.
+User Story: As a student who struggles with remaining on task, 
+I want Canvagotchi to provide personalized reminders to me.
+I want to to stay motivated to complete assingments without getting burnt out.
+
+Scenario 2: Taylor wants a pet to evolve, reflecting her growth in real life.
+User Story: As a high achieving student, I want my Canvagotchi to evolve
+based on my academic consistency during my tenure here. 
+I want the feeling of long term progress here as well. 
+
+Scenario 3: Jordan wants a low maintenance mode for his busy schedule.
+User Story: As a working student, 
+I want Canvagotchi to have a minimal interaction mode. 
+I want to not worry about the pet dying. 
+
+Scenario 4: Sam needs social engagement to stay motivated.
+User Story: As a student who thrives on social motivation and acceptance, 
+I want Canvagotchi to allow a friend's list and a streak counter
+so that I can be engaged and hold my friends accountable.
+
+Features to add: 
+An Adaptive Reminder System with Adjustable Encouragement
+Jordan's concern will not be considered, since he would not need low maintenance
+mode if he submitted assingments, but tailoring reminders to be adjusted to 
+your procrastination habits is helpful for both the Canvagotchi and the user.
+
+Evolving Pet
+A dynamic pet evolution system allows user to feel as if their consistency is met
+with reward, and at no expense to them.
+
+Social System
+Allowing friends to be added gives people a new lens to view the app. 
+By letting friends see their progress, their consistency, their evolutions, 
+it lets them engage with their friends academically, but also as a means of 
+checking on those they hold close. 

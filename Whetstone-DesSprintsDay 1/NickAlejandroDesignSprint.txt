@@ -1,0 +1,15 @@
+Scenario 1: A student logs into Canvas, notices their virtual pet on the dashboard, and checks its status to see if it’s hungry. They realize they haven’t completed an assignment and quickly submit it to feed the pet.
+User Story:As a student, I want the pet to show if it’s hungry or unhappy so that I know when to complete assignments to feed it.
+Scenario 2: A student completes an assignment before the due date and gets rewarded by watching their pet grow and evolve into a new stage.
+User Story:As a student, I want to be notified when the pet needs attention so that I can be reminded to complete my assignments.
+Scenario 3: The virtual pet sends a notification or pop-up reminding the student to submit assignments to keep the pet healthy and happy.
+User Story:As a student, I want to see visual rewards (like evolving the pet or getting accessories) when I consistently submit assignments on time.
+Scenario 4: A student misses an assignment deadline and logs in to find their pet unhappy or hungry. The system suggests small tasks they can complete to recover the pet’s happiness.
+User Story: As a student, I want the system to suggest quick recovery tasks when I miss a deadline so that I can improve my pet’s happiness.
+Feature List:
+Pet Health and Mood Tracking System
+Tracks the pet’s happiness, hunger, and overall well-being based on assignment submissions.
+Provides feedback and encourages assignment completion through real-time updates.
+Reward and Evolution System
+Awards students by evolving the pet, providing accessories, or unlocking new items for consistent and timely submissions.
+Special rewards for streaks of completed tasks and recovery incentives for missed deadlines.

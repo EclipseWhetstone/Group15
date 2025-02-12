@@ -1,0 +1,33 @@
+Scenario 1: James wants a way to recover from missing assignments.
+User Story: As a student who sometimes forgets deadlines, I want my Canvagotchi to provide a recovery system that helps me get back on track after missing assignments, so I don’t feel discouraged and can still make progress.
+
+Scenario 2: Samantha wants a way to personalize their Canvagotchi’s appearance.
+User Story: As a student who enjoys customization, I want my Canvagotchi to have different skins, accessories, and themes that I can unlock through academic achievements, so I can make it feel unique and personal to me.
+
+Scenario 3: Riley wants a help system for tough assignments.
+User Story: As a student who sometimes struggles with difficult assignments, I want my Canvagotchi to have a built-in "help mode" that shows me study guides or tutoring resources when I'm stuck, so I can get assistance without frustration.
+
+Scenario 4: Sofia wants a relaxation mechanic for when they feel overwhelmed.
+User Story: As a student who experiences academic burnout, I want my Canvagotchi to have a relaxation mode that suggests taking breaks after a certain amount of time, so I can avoid exhaustion and not overwork myself.
+
+Feature List:
+
+Recovery System for Missed Assignments
+Allows students to redeem themselves after missing an assignment by completing extra tasks or studying
+The Canvagotchi offers encouraging messages instead of punishing users
+Helps reduce feelings of failure and promotes a growth mindset
+
+Customization & Unlockable Cosmetics
+Users can earn skins and accessories by completing assignments on time
+Adds motivation for students to stay consistent
+Encourages long-term engagement through personalization
+
+Help Mode for Academic Support
+Provides links to tutoring services and study guides
+The Canvagotchi gives encouragement when it detects the user struggling
+Reduces frustration and promotes learning rather than just task completion
+
+Break Mode
+Detects when a student is overworking and suggests short breaks
+Canvagotchi provides fun learning sources to encourage relaxation while still learning
+Reinforces the importance of mental well-being
